@@ -2,7 +2,7 @@
 
 Software Construction Assignment 1
 
-Install apk-debug.apk in root directory
+Install apk-debug.apk from root directory
 
 ![Level Selection Screen](https://raw.githubusercontent.com/14beseasalman/SnakesAndLadders/master/screen1.png)
 
